@@ -2,7 +2,7 @@
 
 ## Description
 
-This password generator includes an html and css file as well as a JS file that will ask a user with a pop-up window how many characters the user would like in their password. Once the user provides a number indicating how many characters they would like, the window will continue to initiate pop-ups that ask the user if they would like Uppercase/Lowercase letters, special, and numbers in their password. Once user has answered all the pop-ups shown, a password that fits all the requirements given by the user will show up within the password generator box. 
+This workday scheduler will allow to input various tasks to do throughout the day based on hour-by-hour blocks and save said tasks to do's on the scheduler. The task that is saved should also be stored into your localStorage, appearing as a key and value item and should be represented by a number indicating the hour block the task is held within as well as the task itself.  
 
 ## Usage
 The Workday Schedule can be accessed through here: https://drog41813.github.io/workday-schedule/ ![Alt text](./workday-schedule.png)
@@ -11,6 +11,9 @@ The Workday Schedule can be accessed through here: https://drog41813.github.io/w
 The following site assisted in basic and general JS concepts as well as how to operate JS itself using various methods and syntax: https://www.w3schools.com/js/js_syntax.asp
 The following site helped with learning how to set up various JS algorithms as well as how they affected your code as a whole: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
 The following individual's github profile indicates partnership in regards to working together and collaborating/sharing constructive ideas with the password generator webpage: https://github.com/LucasWyski001
+The following individual's github profile indicates partnership in regards to working together and collaborating/sharing constructive ideas with the password generator webpage: https://github.com/micavilla
+
+
 
 ## License
 MIT License
@@ -34,3 +37,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
